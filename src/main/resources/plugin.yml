@@ -1,0 +1,6 @@
+name: Iplusplus
+version: ${project.version}
+main: com.hectorhw.iplusplus.Iplusplus
+api-version: 1.13
+authors: [HectorHW]
+description: sample plugin that lets the player to have some kind of counter associated
